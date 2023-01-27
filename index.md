@@ -2,24 +2,31 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Data Science Portfolio
+---
+## Machine learning
 
-[Link to another page](./another-page.html).
+### Financial Complaint
 
-There should be whitespace between paragraphs.
+The Consumer Complaint Database is a collection of complaints about consumer financial products and services that we sent to companies for response. Complaints can give us insights into problems people are experiencing in the marketplace and help us regulate consumer financial products and services under existing federal consumer financial laws, enforce those laws judiciously, and educate and empower consumers to make informed financial decisions.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sushantsur23/finance-complaint.git)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+<center><img src="assets/img/project1.png"/></center>
 
-## Header 2
+---
+### POS Tagging
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sushantsur23/POS_Tagging)
 
+Tagging is a kind of classification that may be defined as the automatic assignment of description to the tokens.
+
+Most of the POS tagging falls under Rule Base POS tagging, Stochastic POS tagging and Transformation based tagging.
+One of the oldest techniques of tagging is rule-based POS tagging. Rule-based taggers use dictionary or lexicon for getting possible tags for tagging each word. If the word has more than one possible tag, then rule-based taggers use hand-written rules to identify the correct tag. Disambiguation can also be performed in rule-based tagging by analyzing the linguistic features of a word along with its preceding as well as following words. For example, suppose if the preceding word of a word is article then word must be a noun.
+
+
+<center><img src="assets/img/project2.png"/></center>
 ### Header 3
 
 ```js
